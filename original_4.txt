@@ -1,0 +1,647 @@
+<ValueLinkLineItem>
+<clientId>41322016-05-23-14.01.21.1201384</clientId>
+<sDate>10/04/2024</sDate>
+<date>10/04/2024</date>
+<product>ValueLink</product>
+<desc>Load</desc>
+<creationDate>10/04/2024</creationDate>
+<id>24100549217878384</id>
+<amount>
+<FSNDollarUS amount="-4532"/>
+</amount>
+<consortiumNumber>99999999</consortiumNumber>
+<merchantNumber>WMUSPAYLOCS</merchantNumber>
+<altMerchantNumber>00000244132</altMerchantNumber>
+<category>GPR-Purchase</category>
+<count>3</count>
+</ValueLinkLineItem>
+<ValueLinkLineItem>
+<clientId>41322016-05-23-14.01.21.1201384</clientId>
+<sDate>10/04/2024</sDate>
+<date>10/04/2024</date>
+<product>ValueLink</product>
+<desc>Load</desc>
+<creationDate>10/04/2024</creationDate>
+<id>24100549217878384</id>
+<amount>
+<FSNDollarUS amount="-3120"/>
+</amount>
+<consortiumNumber>99999999</consortiumNumber>
+<merchantNumber>WMUSPAYLOCS</merchantNumber>
+<altMerchantNumber>00000244132</altMerchantNumber>
+<category>GPR-Purchase Charge Purchase</category>
+<count>2</count>
+</ValueLinkLineItem>
+<ValueLinkLineItem>
+<clientId>41322016-05-23-14.01.21.1201384</clientId>
+<sDate>10/04/2024</sDate>
+<date>10/04/2024</date>
+<product>ValueLink</product>
+<desc>Load</desc>
+<creationDate>10/04/2024</creationDate>
+<id>24100549217878384</id>
+<amount>
+<FSNDollarUS amount="-900"/>
+</amount>
+<consortiumNumber>99999999</consortiumNumber>
+<merchantNumber>WMUSPAYLOCS</merchantNumber>
+<altMerchantNumber>00000244132</altMerchantNumber>
+<category>GPR-Load</category>
+<count>2</count>
+</ValueLinkLineItem>
+<ValueLinkLineItem>
+<clientId>41322016-05-23-14.01.21.1201384</clientId>
+<sDate>10/04/2024</sDate>
+<date>10/04/2024</date>
+<product>ValueLink</product>
+<desc>Load</desc>
+<creationDate>10/04/2024</creationDate>
+<id>24100549217878384</id>
+<amount>
+<FSNDollarUS amount="499"/>
+</amount>
+<consortiumNumber>99999999</consortiumNumber>
+<merchantNumber>WMUSPAYLOCS</merchantNumber>
+<altMerchantNumber>00000244132</altMerchantNumber>
+<category>GPR-Purchase Charge Load</category>
+<count>3</count>
+</ValueLinkLineItem>
+<ValueLinkLineItem>
+<clientId>41322016-05-23-14.01.21.1201384</clientId>
+<sDate>10/04/2024</sDate>
+<date>10/04/2024</date>
+<product>ValueLink</product>
+<desc>Load</desc>
+<creationDate>10/04/2024</creationDate>
+<id>24100549217878384</id>
+<amount>
+<FSNDollarUS amount="671"/>
+</amount>
+<consortiumNumber>99999999</consortiumNumber>
+<merchantNumber>WMUSPAYLOCS</merchantNumber>
+<altMerchantNumber>00000244132</altMerchantNumber>
+<category>GPR-Return</category>
+<count>1</count>
+</ValueLinkLineItem>
+<ValueLinkLineItem>
+<clientId>41322016-05-23-14.01.21.1201384</clientId>
+<sDate>10/04/2024</sDate>
+<date>10/04/2024</date>
+<product>ValueLink</product>
+<desc>Load</desc>
+<creationDate>10/04/2024</creationDate>
+<id>24100549217878384</id>
+<amount>
+<FSNDollarUS amount="386"/>
+</amount>
+<consortiumNumber>99999999</consortiumNumber>
+<merchantNumber>WMUSPAYLOCS</merchantNumber>
+<altMerchantNumber>00000244132</altMerchantNumber>
+<category>GPR-Commissions Paid Merchant</category>
+<count>3</count>
+</ValueLinkLineItem>
+<ValueLinkLineItem>
+<clientId>41322016-05-23-14.01.21.1201384</clientId>
+<sDate>10/04/2024</sDate>
+<date>10/04/2024</date>
+<product>ValueLink</product>
+<desc>Load</desc>
+<creationDate>10/04/2024</creationDate>
+<id>24100549217878384</id>
+<amount>
+<FSNDollarUS amount="270"/>
+</amount>
+<consortiumNumber>99999999</consortiumNumber>
+<merchantNumber>WMUSPAYLOCS</merchantNumber>
+<altMerchantNumber>00000244132</altMerchantNumber>
+<category>GPR-Commissions Paid Program Owner</category>
+<count>2</count>
+</ValueLinkLineItem>
+<ValueLinkLineItem>
+<clientId>41322016-05-23-14.01.21.1201384</clientId>
+<sDate>10/04/2024</sDate>
+<date>10/04/2024</date>
+<product>ValueLink</product>
+<desc>Load</desc>
+<creationDate>10/04/2024</creationDate>
+<id>24100549217878384</id>
+<amount>
+<FSNDollarUS amount="710"/>
+</amount>
+<consortiumNumber>99999999</consortiumNumber>
+<merchantNumber>WMUSPAYLOCS</merchantNumber>
+<altMerchantNumber>00000244132</altMerchantNumber>
+<category>GPR-Commissions Paid FDC</category>
+<count>2</count>
+</ValueLinkLineItem>
+<ValueLinkLineItem>
+<clientId>41322016-05-23-14.01.21.1201384</clientId>
+<sDate>10/04/2024</sDate>
+<date>10/04/2024</date>
+<product>ValueLink</product>
+<desc>Load</desc>
+<creationDate>10/04/2024</creationDate>
+<id>24100549217878384</id>
+<amount>
+<FSNDollarUS amount="105"/>
+</amount>
+<consortiumNumber>99999999</consortiumNumber>
+<merchantNumber>WMUSPAYLOCS</merchantNumber>
+<altMerchantNumber>00000244132</altMerchantNumber>
+<category>GPR Liability-Commissions Disbursement</category>
+<count>1</count>
+</ValueLinkLineItem>
+<ValueLinkLineItem>
+<clientId>41322016-05-23-14.01.21.1201384</clientId>
+<sDate>10/04/2024</sDate>
+<date>10/04/2024</date>
+<product>ValueLink</product>
+<desc>Load</desc>
+<creationDate>10/04/2024</creationDate>
+<id>24100549217878384</id>
+<amount>
+<FSNDollarUS amount="-52"/>
+</amount>
+<consortiumNumber>99999999</consortiumNumber>
+<merchantNumber>WMUSPAYLOCS</merchantNumber>
+<altMerchantNumber>00000244132</altMerchantNumber>
+<category>GPR-Liability</category>
+<count>1</count>
+</ValueLinkLineItem>
+<ValueLinkLineItem>
+<clientId>41322016-05-23-14.01.21.1201384</clientId>
+<sDate>10/04/2024</sDate>
+<date>10/04/2024</date>
+<product>ValueLink</product>
+<desc>Load</desc>
+<creationDate>10/04/2024</creationDate>
+<id>24100549217878384</id>
+<amount>
+<FSNDollarUS amount="441"/>
+</amount>
+<consortiumNumber>99999999</consortiumNumber>
+<merchantNumber>WMUSPAYLOCS</merchantNumber>
+<altMerchantNumber>00000244132</altMerchantNumber>
+<category>GO Tag-Purchase</category>
+<count>3</count>
+</ValueLinkLineItem>
+<ValueLinkLineItem>
+<clientId>41322016-05-23-14.01.21.1201384</clientId>
+<sDate>10/04/2024</sDate>
+<date>10/04/2024</date>
+<product>ValueLink</product>
+<desc>Load</desc>
+<creationDate>10/04/2024</creationDate>
+<id>24100549217878384</id>
+<amount>
+<FSNDollarUS amount="68"/>
+</amount>
+<consortiumNumber>99999999</consortiumNumber>
+<merchantNumber>WMUSPAYLOCS</merchantNumber>
+<altMerchantNumber>00000244132</altMerchantNumber>
+<category>GO Tag-Purchase Charge Purchase</category>
+<count>2</count>
+</ValueLinkLineItem>
+<ValueLinkLineItem>
+<clientId>41322016-05-23-14.01.21.1201384</clientId>
+<sDate>10/04/2024</sDate>
+<date>10/04/2024</date>
+<product>ValueLink</product>
+<desc>Load</desc>
+<creationDate>10/04/2024</creationDate>
+<id>24100549217878384</id>
+<amount>
+<FSNDollarUS amount="38"/>
+</amount>
+<consortiumNumber>99999999</consortiumNumber>
+<merchantNumber>WMUSPAYLOCS</merchantNumber>
+<altMerchantNumber>00000244132</altMerchantNumber>
+<category>GO Tag-Load</category>
+<count>4</count>
+</ValueLinkLineItem>
+<ValueLinkLineItem>
+<clientId>41322016-05-23-14.01.21.1201384</clientId>
+<sDate>10/04/2024</sDate>
+<date>10/04/2024</date>
+<product>ValueLink</product>
+<desc>Load</desc>
+<creationDate>10/04/2024</creationDate>
+<id>24100549217878384</id>
+<amount>
+<FSNDollarUS amount="198"/>
+</amount>
+<consortiumNumber>99999999</consortiumNumber>
+<merchantNumber>WMUSPAYLOCS</merchantNumber>
+<altMerchantNumber>00000244132</altMerchantNumber>
+<category>GO Tag-Purchase Charge Load</category>
+<count>1</count>
+</ValueLinkLineItem>
+<ValueLinkLineItem>
+<clientId>41322016-05-23-14.01.21.1201384</clientId>
+<sDate>10/04/2024</sDate>
+<date>10/04/2024</date>
+<product>ValueLink</product>
+<desc>Load</desc>
+<creationDate>10/04/2024</creationDate>
+<id>24100549217878384</id>
+<amount>
+<FSNDollarUS amount="-184"/>
+</amount>
+<consortiumNumber>99999999</consortiumNumber>
+<merchantNumber>WMUSPAYLOCS</merchantNumber>
+<altMerchantNumber>00000244132</altMerchantNumber>
+<category>GO Tag-Return</category>
+<count>2</count>
+</ValueLinkLineItem>
+<ValueLinkLineItem>
+<clientId>41322016-05-23-14.01.21.1201384</clientId>
+<sDate>10/04/2024</sDate>
+<date>10/04/2024</date>
+<product>ValueLink</product>
+<desc>Load</desc>
+<creationDate>10/04/2024</creationDate>
+<id>24100549217878384</id>
+<amount>
+<FSNDollarUS amount="27"/>
+</amount>
+<consortiumNumber>99999999</consortiumNumber>
+<merchantNumber>WMUSPAYLOCS</merchantNumber>
+<altMerchantNumber>00000244132</altMerchantNumber>
+<category>GO Tag-Commissions Paid Merchant</category>
+<count>4</count>
+</ValueLinkLineItem>
+<ValueLinkLineItem>
+<clientId>41322016-05-23-14.01.21.1201384</clientId>
+<sDate>10/04/2024</sDate>
+<date>10/04/2024</date>
+<product>ValueLink</product>
+<desc>Load</desc>
+<creationDate>10/04/2024</creationDate>
+<id>24100549217878384</id>
+<amount>
+<FSNDollarUS amount="662"/>
+</amount>
+<consortiumNumber>99999999</consortiumNumber>
+<merchantNumber>WMUSPAYLOCS</merchantNumber>
+<altMerchantNumber>00000244132</altMerchantNumber>
+<category>GO Tag-Commissions Paid Program Owner</category>
+<count>2</count>
+</ValueLinkLineItem>
+<ValueLinkLineItem>
+<clientId>41322016-05-23-14.01.21.1201384</clientId>
+<sDate>10/04/2024</sDate>
+<date>10/04/2024</date>
+<product>ValueLink</product>
+<desc>Load</desc>
+<creationDate>10/04/2024</creationDate>
+<id>24100549217878384</id>
+<amount>
+<FSNDollarUS amount="446"/>
+</amount>
+<consortiumNumber>99999999</consortiumNumber>
+<merchantNumber>WMUSPAYLOCS</merchantNumber>
+<altMerchantNumber>00000244132</altMerchantNumber>
+<category>GO Tag-Commissions Paid FDC</category>
+<count>2</count>
+</ValueLinkLineItem>
+<ValueLinkLineItem>
+<clientId>41322016-05-23-14.01.21.1201384</clientId>
+<sDate>10/04/2024</sDate>
+<date>10/04/2024</date>
+<product>ValueLink</product>
+<desc>Load</desc>
+<creationDate>10/04/2024</creationDate>
+<id>24100549217878384</id>
+<amount>
+<FSNDollarUS amount="436"/>
+</amount>
+<consortiumNumber>99999999</consortiumNumber>
+<merchantNumber>WMUSPAYLOCS</merchantNumber>
+<altMerchantNumber>00000244132</altMerchantNumber>
+<category>GO Tag Liability-Commissions Disbursement</category>
+<count>3</count>
+</ValueLinkLineItem>
+<ValueLinkLineItem>
+<clientId>41322016-05-23-14.01.21.1201384</clientId>
+<sDate>10/04/2024</sDate>
+<date>10/04/2024</date>
+<product>ValueLink</product>
+<desc>Load</desc>
+<creationDate>10/04/2024</creationDate>
+<id>24100549217878384</id>
+<amount>
+<FSNDollarUS amount="-190"/>
+</amount>
+<consortiumNumber>99999999</consortiumNumber>
+<merchantNumber>WMUSPAYLOCS</merchantNumber>
+<altMerchantNumber>00000244132</altMerchantNumber>
+<category>GO Tag-Liability</category>
+<count>2</count>
+</ValueLinkLineItem>
+<ValueLinkLineItem>
+<clientId>41322016-05-23-14.01.21.1201384</clientId>
+<sDate>10/04/2024</sDate>
+<date>10/04/2024</date>
+<product>ValueLink</product>
+<desc>Load</desc>
+<creationDate>10/04/2024</creationDate>
+<id>24100549217878384</id>
+<amount>
+<FSNDollarUS amount="-181"/>
+</amount>
+<consortiumNumber>99999999</consortiumNumber>
+<merchantNumber>WMUSPAYLOCS</merchantNumber>
+<altMerchantNumber>00000244132</altMerchantNumber>
+<category>Everywhere Card-Purchase</category>
+<count>1</count>
+</ValueLinkLineItem>
+<ValueLinkLineItem>
+<clientId>41322016-05-23-14.01.21.1201384</clientId>
+<sDate>10/04/2024</sDate>
+<date>10/04/2024</date>
+<product>ValueLink</product>
+<desc>Load</desc>
+<creationDate>10/04/2024</creationDate>
+<id>24100549217878384</id>
+<amount>
+<FSNDollarUS amount="419"/>
+</amount>
+<consortiumNumber>99999999</consortiumNumber>
+<merchantNumber>WMUSPAYLOCS</merchantNumber>
+<altMerchantNumber>00000244132</altMerchantNumber>
+<category>Everywhere Card-Purchase Charge Purchase</category>
+<count>1</count>
+</ValueLinkLineItem>
+<ValueLinkLineItem>
+<clientId>41322016-05-23-14.01.21.1201384</clientId>
+<sDate>10/04/2024</sDate>
+<date>10/04/2024</date>
+<product>ValueLink</product>
+<desc>Load</desc>
+<creationDate>10/04/2024</creationDate>
+<id>24100549217878384</id>
+<amount>
+<FSNDollarUS amount="255"/>
+</amount>
+<consortiumNumber>99999999</consortiumNumber>
+<merchantNumber>WMUSPAYLOCS</merchantNumber>
+<altMerchantNumber>00000244132</altMerchantNumber>
+<category>Everywhere Card-Load</category>
+<count>4</count>
+</ValueLinkLineItem>
+<ValueLinkLineItem>
+<clientId>41322016-05-23-14.01.21.1201384</clientId>
+<sDate>10/04/2024</sDate>
+<date>10/04/2024</date>
+<product>ValueLink</product>
+<desc>Load</desc>
+<creationDate>10/04/2024</creationDate>
+<id>24100549217878384</id>
+<amount>
+<FSNDollarUS amount="282"/>
+</amount>
+<consortiumNumber>99999999</consortiumNumber>
+<merchantNumber>WMUSPAYLOCS</merchantNumber>
+<altMerchantNumber>00000244132</altMerchantNumber>
+<category>Everywhere Card-Purchase Charge Load</category>
+<count>1</count>
+</ValueLinkLineItem>
+<ValueLinkLineItem>
+<clientId>41322016-05-23-14.01.21.1201384</clientId>
+<sDate>10/04/2024</sDate>
+<date>10/04/2024</date>
+<product>ValueLink</product>
+<desc>Load</desc>
+<creationDate>10/04/2024</creationDate>
+<id>24100549217878384</id>
+<amount>
+<FSNDollarUS amount="-118"/>
+</amount>
+<consortiumNumber>99999999</consortiumNumber>
+<merchantNumber>WMUSPAYLOCS</merchantNumber>
+<altMerchantNumber>00000244132</altMerchantNumber>
+<category>Everywhere Card-Return</category>
+<count>2</count>
+</ValueLinkLineItem>
+<ValueLinkLineItem>
+<clientId>41322016-05-23-14.01.21.1201384</clientId>
+<sDate>10/04/2024</sDate>
+<date>10/04/2024</date>
+<product>ValueLink</product>
+<desc>Load</desc>
+<creationDate>10/04/2024</creationDate>
+<id>24100549217878384</id>
+<amount>
+<FSNDollarUS amount="102"/>
+</amount>
+<consortiumNumber>99999999</consortiumNumber>
+<merchantNumber>WMUSPAYLOCS</merchantNumber>
+<altMerchantNumber>00000244132</altMerchantNumber>
+<category>Everywhere Card-Commissions Paid Merchant</category>
+<count>2</count>
+</ValueLinkLineItem>
+<ValueLinkLineItem>
+<clientId>41322016-05-23-14.01.21.1201384</clientId>
+<sDate>10/04/2024</sDate>
+<date>10/04/2024</date>
+<product>ValueLink</product>
+<desc>Load</desc>
+<creationDate>10/04/2024</creationDate>
+<id>24100549217878384</id>
+<amount>
+<FSNDollarUS amount="205"/>
+</amount>
+<consortiumNumber>99999999</consortiumNumber>
+<merchantNumber>WMUSPAYLOCS</merchantNumber>
+<altMerchantNumber>00000244132</altMerchantNumber>
+<category>Everywhere Card-Commissions Paid Program Owner</category>
+<count>2</count>
+</ValueLinkLineItem>
+<ValueLinkLineItem>
+<clientId>41322016-05-23-14.01.21.1201384</clientId>
+<sDate>10/04/2024</sDate>
+<date>10/04/2024</date>
+<product>ValueLink</product>
+<desc>Load</desc>
+<creationDate>10/04/2024</creationDate>
+<id>24100549217878384</id>
+<amount>
+<FSNDollarUS amount="402"/>
+</amount>
+<consortiumNumber>99999999</consortiumNumber>
+<merchantNumber>WMUSPAYLOCS</merchantNumber>
+<altMerchantNumber>00000244132</altMerchantNumber>
+<category>Everywhere Card-Commissions Paid FDC</category>
+<count>2</count>
+</ValueLinkLineItem>
+<ValueLinkLineItem>
+<clientId>41322016-05-23-14.01.21.1201384</clientId>
+<sDate>10/04/2024</sDate>
+<date>10/04/2024</date>
+<product>ValueLink</product>
+<desc>Load</desc>
+<creationDate>10/04/2024</creationDate>
+<id>24100549217878384</id>
+<amount>
+<FSNDollarUS amount="146"/>
+</amount>
+<consortiumNumber>99999999</consortiumNumber>
+<merchantNumber>WMUSPAYLOCS</merchantNumber>
+<altMerchantNumber>00000244132</altMerchantNumber>
+<category>Everywhere Card Liability-Commissions Disbursement</category>
+<count>3</count>
+</ValueLinkLineItem>
+<ValueLinkLineItem>
+<clientId>41322016-05-23-14.01.21.1201384</clientId>
+<sDate>10/04/2024</sDate>
+<date>10/04/2024</date>
+<product>ValueLink</product>
+<desc>Load</desc>
+<creationDate>10/04/2024</creationDate>
+<id>24100549217878384</id>
+<amount>
+<FSNDollarUS amount="101"/>
+</amount>
+<consortiumNumber>99999999</consortiumNumber>
+<merchantNumber>WMUSPAYLOCS</merchantNumber>
+<altMerchantNumber>00000244132</altMerchantNumber>
+<category>Everywhere Card-Liability</category>
+<count>4</count>
+</ValueLinkLineItem>
+<ValueLinkLineItem>
+<clientId>41322016-05-23-14.01.21.1201384</clientId>
+<sDate>10/04/2024</sDate>
+<date>10/04/2024</date>
+<product>ValueLink</product>
+<desc>Load</desc>
+<creationDate>10/04/2024</creationDate>
+<id>24100549217878384</id>
+<amount>
+<FSNDollarUS amount="256"/>
+</amount>
+<consortiumNumber>99999999</consortiumNumber>
+<merchantNumber>WMUSPAYLOCS</merchantNumber>
+<altMerchantNumber>00000244132</altMerchantNumber>
+<category>Manual Adjustments</category>
+<count>3</count>
+</ValueLinkLineItem>
+<ValueLinkLineItem>
+<clientId>41322016-05-23-14.01.21.1201384</clientId>
+<sDate>10/04/2024</sDate>
+<date>10/04/2024</date>
+<product>ValueLink</product>
+<desc>Load</desc>
+<creationDate>10/04/2024</creationDate>
+<id>24100549217878384</id>
+<amount>
+<FSNDollarUS amount="154"/>
+</amount>
+<consortiumNumber>99999999</consortiumNumber>
+<merchantNumber>WMUSPAYLOCS</merchantNumber>
+<altMerchantNumber>00000244132</altMerchantNumber>
+<category>ACH Returns</category>
+<count>3</count>
+</ValueLinkLineItem>
+<ValueLinkLineItem>
+<clientId>41322016-05-23-14.01.21.1201384</clientId>
+<sDate>10/04/2024</sDate>
+<date>10/04/2024</date>
+<product>ValueLink</product>
+<desc>Load</desc>
+<creationDate>10/04/2024</creationDate>
+<id>24100549217878384</id>
+<amount>
+<FSNDollarUS amount="240"/>
+</amount>
+<consortiumNumber>99999999</consortiumNumber>
+<merchantNumber>WMUSPAYLOCS</merchantNumber>
+<altMerchantNumber>00000244132</altMerchantNumber>
+<category>ACH Rejects</category>
+<count>4</count>
+</ValueLinkLineItem>
+<ValueLinkLineItem>
+<clientId>41322016-05-23-14.01.21.1201384</clientId>
+<sDate>10/04/2024</sDate>
+<date>10/04/2024</date>
+<product>ValueLink</product>
+<desc>Load</desc>
+<creationDate>10/04/2024</creationDate>
+<id>24100549217878384</id>
+<amount>
+<FSNDollarUS amount="-140"/>
+</amount>
+<consortiumNumber>99999999</consortiumNumber>
+<merchantNumber>WMUSPAYLOCS</merchantNumber>
+<altMerchantNumber>00000244132</altMerchantNumber>
+<category>Not Settled</category>
+<count>2</count>
+</ValueLinkLineItem>
+<ValueLinkLineItem>
+<clientId>41322016-05-23-14.01.21.1201384</clientId>
+<sDate>10/04/2024</sDate>
+<date>10/04/2024</date>
+<product>ValueLink</product>
+<desc>Load</desc>
+<creationDate>10/04/2024</creationDate>
+<id>24100549217878384</id>
+<amount>
+<FSNDollarUS amount="275"/>
+</amount>
+<consortiumNumber>99999999</consortiumNumber>
+<merchantNumber>WMUSPAYLOCS</merchantNumber>
+<altMerchantNumber>00000244132</altMerchantNumber>
+<category>Total Activity</category>
+<count>3</count>
+</ValueLinkLineItem>
+<!--  First 3 repeated with different FSNDollarUS values and count  -->
+<ValueLinkLineItem>
+<clientId>41322016-05-23-14.01.21.1201384</clientId>
+<sDate>10/04/2024</sDate>
+<date>10/04/2024</date>
+<product>ValueLink</product>
+<desc>Load</desc>
+<creationDate>10/04/2024</creationDate>
+<id>24100549217878384</id>
+<amount>
+<FSNDollarUS amount="232"/>
+</amount>
+<consortiumNumber>99999999</consortiumNumber>
+<merchantNumber>WMUSPAYLOCS</merchantNumber>
+<altMerchantNumber>00000244132</altMerchantNumber>
+<category>GPR-Purchase</category>
+<count>1</count>
+</ValueLinkLineItem>
+<ValueLinkLineItem>
+<clientId>41322016-05-23-14.01.21.1201384</clientId>
+<sDate>10/04/2024</sDate>
+<date>10/04/2024</date>
+<product>ValueLink</product>
+<desc>Load</desc>
+<creationDate>10/04/2024</creationDate>
+<id>24100549217878384</id>
+<amount>
+<FSNDollarUS amount="1120"/>
+</amount>
+<consortiumNumber>99999999</consortiumNumber>
+<merchantNumber>WMUSPAYLOCS</merchantNumber>
+<altMerchantNumber>00000244132</altMerchantNumber>
+<category>GPR-Purchase Charge Purchase</category>
+<count>3</count>
+</ValueLinkLineItem>
+<ValueLinkLineItem>
+<clientId>41322016-05-23-14.01.21.1201384</clientId>
+<sDate>10/04/2024</sDate>
+<date>10/04/2024</date>
+<product>ValueLink</product>
+<desc>Load</desc>
+<creationDate>10/04/2024</creationDate>
+<id>24100549217878384</id>
+<amount>
+<FSNDollarUS amount="400"/>
+</amount>
+<consortiumNumber>99999999</consortiumNumber>
+<merchantNumber>WMUSPAYLOCS</merchantNumber>
+<altMerchantNumber>00000244132</altMerchantNumber>
+<category>GPR-Load</category>
+<count>1</count>
+</ValueLinkLineItem>
