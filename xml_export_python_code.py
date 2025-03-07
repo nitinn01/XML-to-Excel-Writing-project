@@ -12,7 +12,7 @@ Original file is located at
 #!pip install polars openpyxl
 #!pip install fastexcel
 
-"""## Sample excel template creation with all columns"""
+"""## Sample excel template creation with all columns (no need to run this again)"""
 
 import polars as pl
 import subprocess
